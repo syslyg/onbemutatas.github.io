@@ -4,7 +4,7 @@
 
 <p>Leginkább a természet és a túrázás miatt keltette fel az érdeklődésem, de a barátaim is nagy szerepet vállaltak abban, hogy csatlakoztam a cserkészethez. A 47. (P.C.F.) Szent László király csapat tagja vagyok, azon belül a Levesteknős őrshöz tartozom. A csapat a 6. cserkészkerület legtöbb taggal rendelkező csapata, jelenleg 263 aktív tagja van.</p>
 
-<p>Készítettem egy hőtérképet, ami jelzi azokat a helyeket, ahol eddigi cserkészéveim alatt portyát, tábort vagy egyéb cserkészeseményt tartottunk
+<p>Készítettem egy hőtérképet, ami jelzi azokat a helyeket, ahol eddigi cserkészéveim alatt portyát, tábort vagy egyéb cserkészeseményt tartottunk.</p>
 <p class="middle"><img src="Képernyőkép 2025-02-20 210403.png" alt="kep" class="zoomable" onclick="openImage(this)"></p>
 <div id="image-overlay" onclick="closeImage()">
     <img id="overlay-img">
