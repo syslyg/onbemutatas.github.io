@@ -8,5 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
     window.loadText = loadText;
 });
 document.getElementById("home-button").addEventListener("click", function () {
-    window.location.href = "https://syslyg.github.io/onbemutatas.github.io/";
+    location.reload();
 });

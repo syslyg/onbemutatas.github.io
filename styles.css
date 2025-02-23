@@ -56,9 +56,9 @@ nav a {
     white-space: nowrap;
 }
 .home-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;
+    position: fixed;
+    top: 40px;
+    left: 20px;
     background: #ddd;
     color: #333;
     border: none;
@@ -67,6 +67,9 @@ nav a {
     border-radius: 5px;
     cursor: pointer;
     transition: background 0.3s ease;
+}
+.home-btn:hover {
+    background: #bbb;
 }
 .home-btn:hover {
     background: #bbb;
