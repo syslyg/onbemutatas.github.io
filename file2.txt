@@ -1,3 +1,3 @@
-<p>Szeretek sportolni. Korábban néptáncoltam, úsztam és vívtam. Pár év kihagyással kiskorom óta focizom egyesületnél. Szeretek síelni és túrázni, családommal már majdnem a kéktúra felét teljesítettük.</p>
-
+<Szeretek>Ha egyedül vagyok, szeretek olvasni, van amikor egy hétig sem tart pár száz oldal, míg társaságban leginkább a társasjátékozást élvezem. Szeretek sportolni is, korábban néptáncoltam, úsztam és vívtam. Pár év kihagyással kiskorom óta focizom egyesületnél. Szeretek síelni és túrázni, családommal már majdnem a kéktúra felét teljesítettük.</p>
+<p class="middle"><img src="grafikon.png" alt="kep"></p>
 <p>Emellett szeretek olvasni, társasjátékozni.</p>
