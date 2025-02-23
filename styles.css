@@ -57,6 +57,7 @@ nav a {
 }
 .home-btn {
     position: fixed;
+    font-family: 'Segoe UI', sans-serif;
     top: 40px;
     left: 20px;
     background: #ddd;
@@ -71,8 +72,22 @@ nav a {
 .home-btn:hover {
     background: #bbb;
 }
-.home-btn:hover {
-    background: #bbb;
+#image-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8); /* Háttérsötétítés */
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+#overlay-img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
 }
 header a {
     text-decoration: none;
@@ -176,5 +191,11 @@ footer {
 @media (max-width: 600px) {
     div .txt {
         width: 80%;
+    }
+    .home-btn {
+        top: auto;    /* Eltávolítjuk a felső pozíciót */
+        left: auto;   /* Eltávolítjuk a bal oldali pozíciót */
+        bottom: 40px; /* Jobb alsó sarok */
+        right: 20px;
     }
 }
