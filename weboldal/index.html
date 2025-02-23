@@ -1,0 +1,45 @@
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weboldal Sablon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Kreatív önbemutatás</h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#" class="dropdown-toggle">Menü</a>
+                    <ul class="dropdown">
+                        <li class="li"><a href="#" onclick="loadText('file1.txt')">Első szöveg</a></li>
+                        <li class="li"><a href="#" onclick="loadText('file2.txt')">Második szöveg</a></li>
+                        <li class="li"><a href="#" onclick="loadText('file3.txt')">Harmadik szöveg</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </div>
+        <div class="container">
+            <div class="txt" id="content">
+                <!-- kicserélni kívánt rész eleje -->
+                <h2>Üdvözöllek</h2>
+                <p class="middle">Válassz egy menüpontot a szöveg betöltéséhez.</p>
+                <!-- kicseréélni kívánt rész vége -->
+            </div>
+        </div>
+    <footer>
+        <p class="middle">&copy; 2025 Weboldal Sablon</p>
+        <div class="contact">
+            <p class="middle">Kapcsolat:</p>
+            <a href="mailto:info@example.com">Email</a> |
+            <a href="https://facebook.com">Facebook</a> |
+            <a href="https://twitter.com">Twitter</a>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

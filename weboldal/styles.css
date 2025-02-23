@@ -1,0 +1,146 @@
+/* styles.css */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.container {
+    flex: 1;
+    text-align: center;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 1rem;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    width: auto;
+    text-align: center;
+}
+nav ul li {
+    position: relative;
+    text-align: center;
+    width: auto;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    background: #ddd;
+    border-radius: 5px;
+    min-width: 75px;
+    width: auto;
+    text-align: center;
+    white-space: nowrap;
+}
+nav .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    list-style: none;
+    padding: 0;
+    width: auto;
+    min-width: 200px;
+    z-index: 100;
+    text-align: center;
+}
+nav li:hover .dropdown {
+    display: block;
+}
+.dropdown li {
+    width: 100%;
+}
+.dropdown a {
+    width: 100%;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+}
+div {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+.middle{
+    text-align: center;
+}
+img {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+div .txt {
+    text-align: justify;
+    margin:auto;
+    width: 50%;
+    padding-bottom: 30px;
+}
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.contact {
+    margin-top: 10px;
+}
+.contact a {
+    color: white;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+@media (min-width: 600px) {
+    nav ul {
+        flex-direction: row;
+        justify-content: center;
+    }
+    nav ul li {
+        display: inline-block;
+        width: auto;
+    }
+    nav a {
+        width: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    div .txt {
+        width: 80%;
+    }
+}
