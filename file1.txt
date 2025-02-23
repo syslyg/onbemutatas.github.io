@@ -18,5 +18,5 @@
     <li>2024 tavasz: a tavaszi portya ismét Magyaregregyre esett, innen mentünk el Nagymányokra</li>
     <li>2024: Nyári tábor Dinnyeberki (pont Bükkösd mellett, a két falu majdnem ugyanott van)</li>
     <li>2025 ősz: az őszi portya ismét Magyaregregyen, a Vörösfenyő kulcsosházban lett megtartva</li>
-    <li>Ezenfelül a három maradék pont három pécsi pont, abbol a kozepső jelöli a cserkészotthont</li>
+    <li>Ezenfelül a három maradék pont három pécsi pont, abból a középső jelöli a cserkészotthont</li>
 </ul>
