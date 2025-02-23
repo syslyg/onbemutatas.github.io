@@ -55,6 +55,21 @@ nav a {
     text-align: center;
     white-space: nowrap;
 }
+header a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    background: #ddd;
+    border-radius: 5px;
+    min-width: 75px;
+    width: auto;
+    text-align: center;
+    white-space: nowrap;
+}
 nav .dropdown {
     display: none;
     position: absolute;
