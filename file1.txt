@@ -10,6 +10,7 @@
     <img id="overlay-img">
 </div>
 <div>
+<p>A térképen szereplő helyek és időpontjuk:</p>
     <ul>
         <li>2022 ősz: Első portya Magyaregregyen, a Vörösfenyő kulcsosház (pont Komló és Bonyhád között)</li>
         <li>2023 január: Téli portya Monyoródon (a jobb alsó sarokban)</li>
