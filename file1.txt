@@ -9,14 +9,16 @@
 <div id="image-overlay" onclick="closeImage()">
     <img id="overlay-img">
 </div>
-<ul>
-    <li>2022 ősz: Első portya Magyaregregyen, a Vörösfenyő kulcsosház (pont Komló és Bonyhád között)</li>
-    <li>2023 január: Téli portya Monyoródon (a jobb alsó sarokban)</li>
-    <li>2023: Nyári tábor, Belecska (pont a kép közepén)</li>
-    <li>2023 ősz: az őszi portyánkat az országos cserkésznap alkalmából Veszprémben tartottuk</li>
-    <li>2024 január: Téli portya - Bükkösdön (bal oldalt, a két egybemosódottból az egyik)</li>
-    <li>2024 tavasz: a tavaszi portya ismét Magyaregregyre esett, innen mentünk el Nagymányokra</li>
-    <li>2024: Nyári tábor Dinnyeberki (pont Bükkösd mellett, a két falu majdnem ugyanott van)</li>
-    <li>2025 ősz: az őszi portya ismét Magyaregregyen, a Vörösfenyő kulcsosházban lett megtartva</li>
-    <li>Ezenfelül a három maradék pont három pécsi pont, abból a középső jelöli a cserkészotthont</li>
-</ul>
+<div>
+    <ul>
+        <li>2022 ősz: Első portya Magyaregregyen, a Vörösfenyő kulcsosház (pont Komló és Bonyhád között)</li>
+        <li>2023 január: Téli portya Monyoródon (a jobb alsó sarokban)</li>
+        <li>2023: Nyári tábor, Belecska (pont a kép közepén)</li>
+        <li>2023 ősz: az őszi portyánkat az országos cserkésznap alkalmából Veszprémben tartottuk</li>
+        <li>2024 január: Téli portya - Bükkösdön (bal oldalt, a két egybemosódottból az egyik)</li>
+        <li>2024 tavasz: a tavaszi portya ismét Magyaregregyre esett, innen mentünk el Nagymányokra</li>
+        <li>2024: Nyári tábor Dinnyeberki (pont Bükkösd mellett, a két falu majdnem ugyanott van)</li>
+        <li>2025 ősz: az őszi portya ismét Magyaregregyen, a Vörösfenyő kulcsosházban lett megtartva</li>
+        <li>Ezenfelül a három maradék pont három pécsi pont, abból a középső jelöli a cserkészotthont</li>
+    </ul>
+</div>
